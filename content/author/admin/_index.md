@@ -44,7 +44,7 @@ interests = [
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "www.linkedin.com/in/daniel-lew-3a0464128"
+  link = "www.linkedin.com/in/daniel-lew-1a358bc"
 
 [[social]]
   icon = "github"
@@ -56,7 +56,7 @@ interests = [
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "static/resume.pdf"
+   link = "resume.pdf"
 
 +++
 
