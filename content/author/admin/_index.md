@@ -60,7 +60,7 @@ interests = [
 
 +++
 
-I am a student of data science at Winona State University. Currently in my junior year and will be graduating in the spring of 2020. My interest include data science, visualizing and wrangling of data. I am interested in  
+I am a student of data science at Winona State University. Currently in my junior year, I will be graduating in the spring of 2020. My interest include data science, visualizing and wrangling of data. I am interested in exploring the relationship between data and business.
 
 Outside of class, I enjoy spending time being active; badminton; basketball; cooking; reading; tea.
 
