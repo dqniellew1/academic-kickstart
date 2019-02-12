@@ -56,7 +56,7 @@ interests = [
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "static/resume.pdf"
+   link = "static/files/resume.pdf"
 
 +++
 
