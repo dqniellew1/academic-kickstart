@@ -10,7 +10,7 @@ role = "Student of Data Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Winona State University", url = "" } ]
+organizations = [ { name = "Winona State University", url = "http://www.winona.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -44,7 +44,7 @@ interests = [
 [[social]]
   icon = "linkedin-in"
   icon_pack = "fab"
-  link = "www.linkedin.com/in/daniel-lew-1a358bc"
+  link = "https://www.linkedin.com/in/daniel-lew-1a358bc"
 
 [[social]]
   icon = "github"
