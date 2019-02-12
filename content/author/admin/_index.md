@@ -39,7 +39,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:dqniellew@gmail.com".
+  link = "#contact"  # For a direct email link, use "mailto:ylew17@winona.edu".
 
 [[social]]
   icon = "linkedin"
