@@ -42,7 +42,7 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:ylew17@winona.edu".
 
 [[social]]
-  icon = "linkedin"
+  icon = "linkedin-in"
   icon_pack = "fab"
   link = "www.linkedin.com/in/daniel-lew-1a358bc"
 
@@ -56,7 +56,7 @@ interests = [
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "resume.pdf"
+   link = "docs/resume.pdf"
 
 +++
 
